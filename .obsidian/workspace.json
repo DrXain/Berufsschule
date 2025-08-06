@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06137f55209e5eca",
+        "id": "8e3f601c0c6fc12b",
         "type": "tabs",
         "children": [
           {
-            "id": "367455881499326f",
+            "id": "8345ce3ffb784604",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -176,8 +172,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "367455881499326f",
+  "active": "d39e2a0999ad77a6",
   "lastOpenFiles": [
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/02 Analyse und Entwicklung von Netzwerken/04 Den Betrieb und die Verfügbarkeit von Netzwerken überwachen und Gewährleisten",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/02 Analyse und Entwicklung von Netzwerken/03 Die IT-Sicherheit in Netzwerken sicherstellen",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/02 Analyse und Entwicklung von Netzwerken/02 Netzwerkkomponenten bedarfsgerecht auswählen und konfigurieren",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/02 Analyse und Entwicklung von Netzwerken/01 Netzwerkprotokolle anwendungsbezogen auswählen und einsetzen",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/04 Umweltschutz",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/02 Aufbau und Organisation des Ausbildungsbetriebes",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/03 Sicherheit und Gesundheitsschutz bei der Arbeit",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/01 Berufsbildung sowie Arbeits- und Tarifsrecht",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/01 Konzeption und Administration von IT-Systemen/04 Programme zur automatisierten Systemverwaltung erstellen",
+    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/01 Konzeption und Administration von IT-Systemen/03 Speicherlösungen integrieren und verwalten",
     "Untitled.md"
   ]
 }
