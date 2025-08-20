@@ -11,10 +11,14 @@
             "id": "8345ce3ffb784604",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LF/LF12/20.8.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20.8"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,19 +177,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d39e2a0999ad77a6",
+  "active": "8345ce3ffb784604",
   "lastOpenFiles": [
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/02 Analyse und Entwicklung von Netzwerken/04 Den Betrieb und die Verfügbarkeit von Netzwerken überwachen und Gewährleisten",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/02 Analyse und Entwicklung von Netzwerken/03 Die IT-Sicherheit in Netzwerken sicherstellen",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/02 Analyse und Entwicklung von Netzwerken/02 Netzwerkkomponenten bedarfsgerecht auswählen und konfigurieren",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/02 Analyse und Entwicklung von Netzwerken/01 Netzwerkprotokolle anwendungsbezogen auswählen und einsetzen",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/Vernetztes Zusammenarbeiten unter Nutzung digitaler Medien",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/04 Umweltschutz",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/02 Aufbau und Organisation des Ausbildungsbetriebes",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/03 Sicherheit und Gesundheitsschutz bei der Arbeit",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/03 Wirtschaft- und Sozialkunde/01 Berufsbildung sowie Arbeits- und Tarifsrecht",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/01 Konzeption und Administration von IT-Systemen/04 Programme zur automatisierten Systemverwaltung erstellen",
-    "AP2_Vorbereitung/Prüfungskatalog/Gebiet-Tätigkeit/01 Konzeption und Administration von IT-Systemen/03 Speicherlösungen integrieren und verwalten",
-    "Untitled.md"
+    "Untitled 1.md",
+    "LF/LF12/20.8.md",
+    "LF/LF12",
+    "LF",
+    "AP2_Vorbereitung/Fragenkomplexe/Fachübergreifend/01 Informieren und Beraten von Kunden und Kundinnen/03 Daten und Sachverhalte interpretieren.md",
+    "AP2_Vorbereitung/Lernfelder/12",
+    "AP2_Vorbereitung/Lernfelder/11",
+    "AP2_Vorbereitung/Lernfelder/10",
+    "AP2_Vorbereitung/Lernfelder/09",
+    "AP2_Vorbereitung/Lernfelder/08",
+    "AP2_Vorbereitung/Lernfelder/07",
+    "AP2_Vorbereitung/Lernfelder/06",
+    "AP2_Vorbereitung/Lernfelder/05",
+    "AP2_Vorbereitung/Fragenkomplexe/Fachübergreifend/01 Informieren und Beraten von Kunden und Kundinnen/02 Kundenbeziehungen unter Beachtung rechtlicher Regelungen und betrieblicher Gundsätze.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Fachübergreifend/01 Informieren und Beraten von Kunden und Kundinnen/01 Aktives Zuhöhren.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/02 Inbetriebnehmen von Speicherlösungen/06 Netzwerkkomponenten und -protokolle beschreiben können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/02 Inbetriebnehmen von Speicherlösungen/05 Daten heterogener Quellen zusammenführen können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/02 Inbetriebnehmen von Speicherlösungen/04 Verschiedene Service- und Liefermodelle benennen und bedarfsorientiert auswählen können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/02 Inbetriebnehmen von Speicherlösungen/03 Möglichkeiten der softwaretechnischen Absicherungen implementieren können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/02 Inbetriebnehmen von Speicherlösungen/02 Möglichkeiten der physischen und hardwaretechnischen Absicherung benennen.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/02 Inbetriebnehmen von Speicherlösungen/01 Technisch und organisatorisch Maßnahmen.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/13 Erstellen und Erweitern von Handbüchern für Benutzer und Systembetreuer.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/12 Monitoringergebnisse analysieren und korrektive Maßnahmen bestimmen können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/11 Monitoringsysteme anwenden und Ergebnisse interpretieren können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/10 Maßnahmen zu Sicherstellung des Betriebes beurteilen können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/09 Risiken identifizieren, Maßnahmen planen und Ausfallwahrscheinlichkeiten berücksichtigen.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/08 Anforderungen an Verfügbarkeit von Anwendungsdiensten beurteilen können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/07 Netzwerkrelevante Dienste beschrieben können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/06 Standortübergreifende und -unabhängige Kommunikation situationsgerecht auswählen und einrichten können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/05 Übertragungsprotokolle und Ihre Eigenschaften erläutern und zielgerichtet einsetzen können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/04 Peer 2 Peer bzw. Client-Server-Konzepte vergleichen und hinsichtlich ihres Einsatzes bewerten können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/02 Netzwerkkomponenten vergleichen und beschreiben können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/03 Netzwerkkonzepte benennen und charakterisieren.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Systemintegration/01 Betreiben von IT-Systemen/01 Schichtenmodelle benennen und zuordnen können.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Fachübergreifend/04 Umsetzen, Integrieren und Prüfen von Maßnahmen zu IT-Sicherheit zum Datenschutz/06 Wirksamkeit und Effizienz der umgesetzten Technisch Organisatorischen Maßnahmen (TOM) zur IT-Sicherheit und zum Datenschutz prüfen.md",
+    "AP2_Vorbereitung/Fragenkomplexe/Fachübergreifend/04 Umsetzen, Integrieren und Prüfen von Maßnahmen zu IT-Sicherheit zum Datenschutz/05 Verschiedene Tools zur Überprüfung von IT-Sicherheitsmaßnahmen erläutern.md"
   ]
 }
